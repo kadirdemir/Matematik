@@ -1,2 +1,2 @@
 x = input("Adınızı yazınız: ")
-print("Merhaba", x)
+print("Kadir", x)

@@ -1,4 +1,4 @@
-veri=input("Sayı gir:")
+veri=input("Sayı giriniz:")
 #input() fonksiyonundan gelen karakter dizisini
 #sayıya dönüştürüyoruz.
 sayı=int(veri)
